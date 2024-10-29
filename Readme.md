@@ -1,5 +1,9 @@
 # ANGELcoder API Interface
 
+
+<img width="443" alt="Screenshot 2024-10-29 at 5 53 32 PM" src="https://github.com/user-attachments/assets/391291c1-3f40-40cd-bdc2-0f96f2ea738d">
+
+
 This project provides a simple, web-based interface for interacting with "ANGELcoder," a coding assistant powered by Meta's CodeLlama model. ANGELcoder is designed to assist with coding-related questions, provide code examples, debugging advice, and conceptual insights through a user-friendly Gradio interface.
 
 Powered by CodeLlama
