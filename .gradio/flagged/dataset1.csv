@@ -1,0 +1,9 @@
+prompt,output,timestamp
+write a full code of fibonnaci series in Python,"'
+def fibonacci(n):
+    if n <= 1:
+        return n
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)
+
+print(fibonacci(7))",2024-10-29 17:40:43.948676
